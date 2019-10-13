@@ -6,7 +6,7 @@
 
 **演示**
 
-      <img src="/image/one.png" width="150" height="300">      <img src="/image/two.png" width="150" height="300">
+<img src="/image/one.png" width="150" height="300">      <img src="/image/two.png" width="150" height="300">
 
 **功能方面：**
 
