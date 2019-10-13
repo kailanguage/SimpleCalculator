@@ -4,9 +4,7 @@
 
 **演示**
 
-<img src="/image/one.png" width="100" height="200">
-
-<img src="/image/two.png" width="100" height="200">
+<img src="/image/one.png" width="100" height="200"><img src="/image/two.png" width="100" height="200">
 
 **功能方面：**
 
@@ -18,7 +16,9 @@
 
  
 
-**算法思想：**贪心暴力
+**算法思想：** 
+
+贪心暴力
 
 ①   从输入框获取字符串，存于ArrayList中，可增加、删除、清空
 
