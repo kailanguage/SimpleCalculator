@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">15dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="input_textSize">60sp</dimen>
+
+    <dimen name="bt_margin">1dp</dimen>
+    <dimen name="bt_padding">10dp</dimen>
+    <dimen name="bt_textSize">35sp</dimen>
+
+    <dimen name="layout_margin">5dp</dimen>
+</resources>
